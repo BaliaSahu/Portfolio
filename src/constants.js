@@ -14,7 +14,7 @@ import vsCode from './assets/VSCode.png'
 import eclipse from './assets/eclipse.png'
 import github from './assets/github-sign.png'
 import netlify from './assets/netlify.png'
-import intellijIdea from './assets/intellijIDEA.png'
+import intel from './assets/intel.png'
 import jspiders from './assets/jspiders.jpg'
 import foodDel from './assets/foodDel.png'
 import gietlogo from './assets/gietlogo.webp'
@@ -62,7 +62,7 @@ export const SkillInfo = [
             {name:'Eclipse',logo:eclipse},
             {name:'Netlify',logo:netlify},
             {name:'Compass',logo:mongodb},
-            {name:'Intelli IDEA',logo:intellijIdea}
+            {name:'Intelli IDEA',logo:intel}
         ]
     }
 ]
