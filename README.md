@@ -6,7 +6,7 @@ This project showcases my skills, experience, education, and projects** in a cle
 ---
 
 ✨ Live Preview
-🔗 **Portfolio URL:** _(Add your deployed Netlify/Vercel link here)_
+🔗 Portfolio URL: _https://baliasahu.netlify.app
 
 ---
 
