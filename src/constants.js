@@ -113,8 +113,8 @@ export const projects=[
         description:"This is my personal portfolio website, built using React and Tailwind CSS, designed to showcase my professional journey and technical skills. The website includes detailed sections about my education, work experience, and projects, providing recruiters and visitors a comprehensive overview of my abilities.",
         image:portImage,
         tags:["REACTJS","TAILWIND-CSS"],
-        github:"",
-        webapp:""
+        github:"https://github.com/BaliaSahu/Portfolio",
+        webapp:"https://baliasahu.netlify.app"
     },
     {
         id:3,
