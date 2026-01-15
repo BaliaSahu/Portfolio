@@ -1,16 +1,158 @@
-# React + Vite
+ 🌐 Personal Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my Personal Portfolio Website 🚀  
+This project showcases my skills, experience, education, and projects** in a clean and modern design.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+✨ Live Preview
+🔗 **Portfolio URL:** _(Add your deployed Netlify/Vercel link here)_
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+📌 About the Project
 
-## Expanding the ESLint configuration
+This is a fully responsive **portfolio website** built to highlight my professional profile.  
+It serves as a **central place** for recruiters and visitors to learn about me, explore my work, and get in touch.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+ 🛠️ Tech Stack
+
+- ⚛️ React.js – Component-based UI
+- ⚡ Vite – Fast build tool
+- 🎨 Tailwind CSS – Modern utility-first styling
+- 🌐 HTML5
+- 🎯 JavaScript (ES6+)
+- 🧩 CSS3
+- 🔤 Google Fonts (Poppins)
+
+---
+
+ 📂 Project Structure
+ 
+PORT/
+
+│── node_modules/
+
+│── public/
+
+│
+│── src/
+
+│   ├── assets/
+
+│   │
+
+│   ├── components/
+
+│   │   ├── About/
+
+│   │   ├── Contact/
+
+│   │   ├── Education/
+
+│   │   ├── Experience/
+
+│   │   ├── Footer/
+
+│   │   ├── Navbar/
+
+│   │   ├── Skills/
+
+│   │   └── Work/
+
+│   │
+
+│   ├── App.jsx
+
+│   ├── BlurBlob.jsx
+
+│   ├── constants.js
+
+│   ├── index.css
+
+│   └── main.jsx
+
+│
+
+│── .gitignore
+
+│── eslint.config.js
+
+│── index.html
+
+│── package.json
+
+│── package-lock.json
+
+│── tailwind.config.js
+
+│── vite.config.js
+
+│── README.md
+
+ 
+Features
+
+   ✅ Fully responsive design (Mobile, Tablet & Desktop)
+
+  🎨 Clean & modern UI
+  
+  🧠 Skills section with technologies
+
+  💼 Experience & work showcase
+
+  📚 Education details
+
+  📂 Projects with descriptions
+
+  📞 Contact section
+
+  🌙 Smooth scrolling
+
+  ⚡ Fast loading with Vite
+
+  🏠 Home
+
+  👤 About Me
+
+  💼 Experience
+
+  🛠️ Skills
+
+  📁 Projects / Work
+
+  🎓 Education
+
+  📬 Contact
+
+⚙️ Installation & Setup
+
+  Follow these steps to run the project locally:
+
+    # Clone the repository
+    git clone https://github.com/your-username/your-repo-name.git
+
+    # Navigate into the project
+    cd your-repo-name
+
+    # Install dependencies
+    npm install
+
+    # Start the development server
+    npm run dev
+
+📦 Build for Production
+
+    npm run build
+
+🌍 Deployment
+
+  This project can be deployed easily using:
+
+    🔹 Netlify
+
+🙋‍♂️ Author
+
+  👤 Balia Sahu
