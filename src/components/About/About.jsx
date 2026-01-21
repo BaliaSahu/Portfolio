@@ -44,7 +44,7 @@ const About = () => {
           '>
             I am a passionate Java Full Stack Developer with internship training from JSpiders, Bhubaneswar, specializing in developing robust backend systems and interactive frontend interfaces. My technical skill set includes Java, Spring Boot, React.js, Bootstrap, and REST APIs, along with hands-on project experience. I am committed to continuous learning and building high-quality software solutions.
           </p>
-          <a href="https://1drv.ms/b/c/3e4c6dabd5e59de5/IQCn75MDNPjtR5DL9zrihHeVATB207vQf_OAJYC4J8EX7IQ?e=c687qh"
+          <a href="https://1drv.ms/b/c/3e4c6dabd5e59de5/IQBABNjesyesRIa6Ky7H7O3uAd_R2ghleew8du6QLCM_gJ4?e=vr8eGl"
             target='_blank'
             rel='noopener noreferrer'
             className='inline-block text-white py-3 px-8 rounded-full mt-5 text-lg font-bold transition duration-300 transform-fill'
